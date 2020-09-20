@@ -15,7 +15,7 @@ function App() {
 
         <h2>1. Aesthetics</h2>
 
-        <p>Aesthetics is generally defined as the study of beauty. It's also often defined in its relation to philosophy, a branch of study on its own.</p>
+        <p>Aesthetics is generally and broadly defined as the study of beauty. It's also often defined in its relation to philosophy, a branch of study on its own.</p>
 
         <p>In my opinion, it deals with the metaphysical. You can't touch the concept of beauty or style. You can't quantify some AMOUNT of it. You can't put beauty, the concept, in a bucket. It's as intimate and ephemeral a concept as time, or space, or hate, or love, or envy.</p>
 

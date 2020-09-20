@@ -21,6 +21,8 @@ h2 {
 
   margin: 10rem 0 0 0;
 
+  color: #EEEEEE;
+
   font-size: 3rem;
 
 }
@@ -29,8 +31,18 @@ p {
 
   margin: 7.5vw;
 
+  color: #EEEEEE;
+
   font-size: 2rem;
 
   text-align: left;
+
+}
+
+footer {
+
+  padding: 5rem;
+
+  color: #CCCCCC;
 
 }
