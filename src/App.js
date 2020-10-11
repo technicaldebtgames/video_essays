@@ -7,7 +7,7 @@ function App() {
 
       <header className="App-header">
         
-        <h1>Video Essay Transcripts</h1>
+        <h1>YouTube Video Essay Transcripts</h1>
 
       </header>
     
